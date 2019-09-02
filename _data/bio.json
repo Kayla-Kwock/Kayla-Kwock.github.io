@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kayla Kwock",
     "label": "Student",
-    "picture": "https://Kayla-Kwock.github.io/images/IMG_3118.png",
+    "picture": "https://Kayla-Kwock.github.io/images/IMG_3118.jpg",
     "email": "dkwock@hawaii.edu",
     "phone": "808-888-9660",
     "website": "https://Kayla-Kwock.github.io",
@@ -109,18 +109,6 @@
   ],
   "work": [
     {
-      "company": "Maryknoll School",
-      "position": "Robotics Mentor",
-      "website": "https://www.maryknollschool.org/",
-      "startDate": "2016-08",
-      "endDate": "Present",
-      "summary": "Mentor 4-12th grade students to complete multi-month robotics projects using Engineering Design principles.",
-      "highlights": [
-        "Students participated in VEX IQ, VRC, and FRC robotics competitions both locally and off-island.",
-        "Work with other mentors and student leaders to develop project road maps using Scrum."
-      ]
-    },
-    {
       "company": "Booz Allen Hamilton",
       "position": "Summer Games Intern",
       "website": "https://www.boozallen.com/careers/university-talent/booz-allen-summer-games.html",
@@ -131,20 +119,32 @@
         "Used Agile PM methodologies to develop a Python-based application",
         "Pitched product to various staff, including senior members."
       ]
+    },
+    {
+      "company": "Maryknoll School",
+      "position": "Robotics Mentor",
+      "website": "https://www.maryknollschool.org/",
+      "startDate": "2016-08",
+      "endDate": "Present",
+      "summary": "Mentor 4-12th grade students to complete multi-month robotics projects using Engineering Design principles.",
+      "highlights": [
+        "Students participated in VEX IQ, VRC, and FRC robotics competitions both locally and off-island.",
+        "Work with other mentors and student leaders to develop project road maps using Scrum."
+      ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2019-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to students who complete a rigorous high school curriculum with an overall GPA of at least 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Charles R. Kendall Scholarship",
+      "date": "2016",
+      "awarder": "Charles R. Kendall Scholarship and Education Fund",
+      "summary": "Scholarship awarded to incoming freshmen who exemplify drive and devotion to their education."
     }
   ],
   "references": [
