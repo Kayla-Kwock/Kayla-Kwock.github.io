@@ -1,15 +1,16 @@
+const gpa = 3.64
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kayla Kwock",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://Kayla-Kwock.github.io/images/molly.png",
+    "email": "dkwock@hawaii.edu",
+    "phone": "808-888-9660",
+    "website": "https://Kayla-Kwock.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the from the College of Engineering  at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "5036 Kilauea Ave",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +18,30 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Kayla-Kwock",
+        "url": "https://github.com/Kayla-Kwock"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Kayla Kwock",
+        "url": "http://linkedin.com/in/kayla-kwock-924449170"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unsupervised",
+        "Machine Vision",
+        "TensorFlow"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Analytics",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Big Data",
+        "Prescriptive Analytics"
       ]
     }
   ],
@@ -63,86 +52,87 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "C#",
+        "Verilog",
+        'VHDL",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Project Management",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Management Consultant",
+      "level": "",
+      "keywords": [
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Engineering (expected Spring, 2020)",
+      "studyType": "B.S",
+      "startDate": "2016-08",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": gpa,
       "courses": [
+        "CPU Architecture",
+        "Computer Logic",
+        "Object-Oriented Programming",
+        "Algorithms",
+        "Signals and Systems",
+        "Circuit Analysis",
+        "Electromagnetics"
       ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Chemistry (expected Spring, 2020)",
+      "studyType": "Minor",
+      "startDate": "2016-08",
+      "endDate": "Present",
+      "gpa": gpa,
+      "courses": [
+        "Organic",
+        "Analytical",
+        "Physical"
+      ]
+    },
     }
+    
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Maryknoll School",
+      "position": "Robotics Mentor",
+      "website": "https://www.maryknollschool.org/",
+      "startDate": "2016-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Mentor 4-12th grade students to complete multi-month robotics projects using Engineering Design principles.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Students participated in VEX IQ, VRC, and FRC robotics competitions both locally and off-island.",
+        "Work with other mentors and student leaders to develop project road maps using Scrum."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Games Intern",
+      "website": "https://www.boozallen.com/careers/university-talent/booz-allen-summer-games.html",
+      "startDate": "2019-06-05",
+      "endDate": "2016-08-16",
+      "summary": "Work with a team of other interns to develop a solution along with a business pitch \"Shark Tank\" style.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Used Agile PM methodologies to develop a Python-based application",
+        "Pitched product to various staff, including senior members."
       ]
     }
   ],
