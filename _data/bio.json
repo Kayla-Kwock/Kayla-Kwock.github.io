@@ -1,4 +1,3 @@
-const gpa = 3.64
 {
   "basics": {
     "name": "Kayla Kwock",
@@ -83,7 +82,7 @@ const gpa = 3.64
       "studyType": "B.S",
       "startDate": "2016-08",
       "endDate": "Present",
-      "gpa": gpa,
+      "gpa": "3.64",
       "courses": [
         "CPU Architecture",
         "Computer Logic",
@@ -100,7 +99,7 @@ const gpa = 3.64
       "studyType": "Minor",
       "startDate": "2016-08",
       "endDate": "Present",
-      "gpa": gpa,
+      "gpa": "3.64",
       "courses": [
         "Organic",
         "Analytical",
