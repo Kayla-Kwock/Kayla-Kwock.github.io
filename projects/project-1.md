@@ -19,7 +19,8 @@ summary: A UH VIP (Vertically Integrated Projects) focused on monitoring water c
 
 My role in this project is the lead of the Sensors Team, responsible for developing the sensor package that is lowered into the well to get the information. This includes organizing and wiring the circuits together to fit down the 1.5" diameter pipe and waterproofing them well enough to withstand up to 100ft of water pressure. To accomplish this, we've designed various 3D printable housings to encase the COTS sensors that measure temperature, salinity, flow rate and direction of the water, and if there are any bio-contaminants present. 
 
-You can learn more about the [overall project here](http://www-ee.eng.hawaii.edu/~mmouse/about.html) or about the [DROP Module here](https://ikewaiuhmeng.wixsite.com/ikewai)
+You can learn more about the [overall project here](http://www-ee.eng.hawaii.edu/~mmouse/about.html) or about the [DROP Module here](https://ikewaiuhmeng.wixsite.com/ikewai/about-ike-wai)
 
 
 
+ 
