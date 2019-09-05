@@ -5,7 +5,7 @@ image: images/ikeWaiLogo.jpg
 title: 'Ike Wai
 permalink: projects/ikewai
 # All dates must be YYYY-MM-DD format!
-date: 2018-01
+date: 2018-01-07
 labels:
   - CAD
   - RaspberryPi
