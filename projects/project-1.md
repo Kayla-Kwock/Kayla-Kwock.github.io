@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/ikeWaiLogo.jpg
-title: 'Ike Wai
+title: Ike Wai
 permalink: projects/ikewai
-# All dates must be YYYY-MM-DD format!
 date: 2018-01-07
 labels:
-  - CAD
-  - RaspberryPi
-  - Rapid Prototyping
+- CAD
+- RaspberryPi
+- Rapid Prototyping 
 summary: A UH VIP (Vertically Integrated Projects) focused on monitoring water conditions inside of Hawaii's water wells.
 ---
 
