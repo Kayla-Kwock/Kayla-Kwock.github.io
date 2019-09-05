@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ikeWaiGroupImage.jpg
+image: images/ikeWaiLogo.jpg
 title: 'Ike Wai
 permalink: projects/ikewai
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,8 @@ labels:
   - Rapid Prototyping
 summary: A UH VIP (Vertically Integrated Projects) focused on monitoring water conditions inside of Hawaii's water wells.
 ---
-<img class="ui medium right floated rounded image" src="../images/vacay-ikeWaiGroupImage.png">
+
+<img class="ui medium right floated rounded image" src="../images/ikeWaiGroupImage.jpg">
 
 'Ike Wai is a multidisciplinary project that aims to provide better insights on the quality of Hawaii's water wells. Current solutions are expensive, time-consuming, and the final results don't go into depth. Our goal, as the Engineering branch, is to modernize and automate this process, as well as expand on the capabilities of what we can monitor. The solution is the DROP (Downwell Remote Operated Platform) module, which is fully encapsulated, off-the-grid package which can be deployed and left in the field so that the well can be monitored at anytime via wireless communication.
 
