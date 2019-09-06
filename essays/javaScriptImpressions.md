@@ -18,17 +18,22 @@ Throughout all my college career, the thing I believe I've become most adept at 
 ### Versus Python
 JavaScript has a similiar learning curve to Python, if not a bit harder. They're both scripting languages and both are fairly high level, with a bunch of included data types and methods to manipulate them. The only reason I say JavaScript is harder is due to the fact that Python can essentially be completely written in English while JavaScript requires syntax markers to work like curly braces and semicolons. For example, a Python `for()` loop would look something like this...
 
+---
 ```
 for(i in range(100))
     #do stuff
 ```
+---
 Contrast this to JavaScript...
 
+---
 ```
 for(let i = 0; i < 100; i++){
   //do stuff
 }
 ```
+---
+
 Both of these loops accomplish the same task of iterating 100 times. However, I would argue that the Python representation is much more user friendly. It's all written in what is essentially plain english asside from the `range(100)`. In contrast to the JavaScript, where everything is covered in syntax markers. Python here is the odd one out however, as many other languages use the exact same syntax as JavaScript, like C and C++.
 
 ### Versus C
@@ -50,11 +55,13 @@ When it comes to programming, I expect a certain behavior from the language. If 
 
 However, these two are simply annoyances that can be solved simply by either `freeze()` the variable or avoid using `var`. My most critical gripe with JavaScript is the lackluster error messages on interpretation. Every other language I've written in has had an error handler that would explain each and every problem that arose with the code. It doesn't solve the problem, but at least gives a simple way to look at every potential error. JavaScript on the other hand will simply stop interpreting upon finding a bug, and not going any further. Along with that, the error handler is often times doesn't pinpoint the problem to what is actually wrong. For example, when this JavaScript snippet is compiled
 
+---
 ```
 for(let i = 0, i < 200; i++){
   function(i);
  }
  ```
+ ---
  
 The compiler incorrectly diagnoses the problem as redeclaring i as opposed to using a comma instead of a semi-colon. The compiler also fails to bring up the fact that `function()` is not defined. Maybe it's my development environment and using Chrome's inbuilt console as opposed to a dedicated IDE such as IntelliJ's IDEA. 
 
