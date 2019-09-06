@@ -20,7 +20,8 @@ Of the team, I was responsible for organizing and linking together the coded com
 
 Below is an example of a written module: the 4-1 MUX. This would take in 4 inputs and determine which one to push to the output.
 
-```
+<hr>
+<pre>
 // 4:1 Multiplexer
 module MUX4(
 	result,  // 16 bit output
@@ -46,4 +47,5 @@ always @(indata0 or indata1 or indata2 or indata3 or select)
 	endcase
 
 endmodule
-```
+</pre>
+<hr>
