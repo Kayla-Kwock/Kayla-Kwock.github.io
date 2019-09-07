@@ -153,40 +153,15 @@
       "awarder": "Charles R. Kendall Scholarship and Education Fund",
       "summary": "Scholarship awarded to incoming freshmen who exemplify drive and devotion to their education."
     }
+  ],"publications": [
+    {
+    }
   ],
   "references": [
     {
       "name": "Available upon request",
       "reference": ""
     }
-  ],
-  "publications": [
-    {
-    }
-  ],
-  "interests": [
-    {
-      "name": "Climate Change",
-      "keywords": []
-    },
-    {
-      "name": "Software Engineering",
-      "keywords": [
-        "software metrics",
-        "full stack application development"
-      ]
-    },
-    {
-      "name": "Serious Games",
-      "keywords": []
-    },
-    {
-      "name": "Renewable Energy",
-      "keywords": [
-        "power quality",
-        "energy analytics"
-      ]
-    }
-    ]
+  ]
   ]
 }
