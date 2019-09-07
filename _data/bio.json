@@ -164,10 +164,6 @@
     {
     }
   ],
-  "awards": [
-    {
-    }
-  ],
   "interests": [
     {
       "name": "Climate Change",
@@ -191,11 +187,6 @@
         "energy analytics"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "referece": ""
-    }
+    ]
   ]
 }
