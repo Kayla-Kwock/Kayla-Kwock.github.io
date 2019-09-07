@@ -49,3 +49,5 @@ always @(indata0 or indata1 or indata2 or indata3 or select)
 endmodule
 </pre>
 <hr>
+
+With this project, my biggest takeaway was how to follow complex instructions. Since each individual part of the CPU had to be programmed separately, each had to be made in such a way that follows the instructions very closely or else the whole thing may not work in the end. Looking back, this is similar to how programming is done in the workspace where you're given a spec sheet and are tasked with coding the solution.
