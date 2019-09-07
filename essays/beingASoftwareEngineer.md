@@ -12,13 +12,11 @@ labels:
 
 # Software Engineering: What is it?
 According to WhatIs.com, Software Engineering is...
-
-<blockquote>
   
-  Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.
+>Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.
   
   <footer>  - WhatIs.com  </footer>
-</blockquote>
+
  
  In other words, designing software using a systematic and logical approach in order to create effective products. Sounds simple, but in practice, it can be difficult to not only learn the technical skills of coding and debugging, but also getting in the right mindset for coding. Figuring out the best way to structure your code can be the hardest thing about a project. As I've gotten more and more experienced with programming, I realize just how much there's still left to learn about thinking like a programmer.
  
