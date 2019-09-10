@@ -7,12 +7,13 @@
 
 // Customize the background color
 body {
-background: linear-gradient(to bottom right, salmon, #E7F2F8);
+background: rgb(116,162,227);
+background: linear-gradient(90deg, rgba(116,162,227,1) 59%, rgba(22,198,219,1) 100%);
 }
 
 // Customize the menubar color
 .ui.menu {
-background: #B5E5CF;
+background: salmon;
 }
 
 // Customize the home page icon colors
