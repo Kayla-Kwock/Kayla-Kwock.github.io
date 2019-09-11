@@ -18,6 +18,9 @@ summary: A UH VIP (Vertically Integrated Projects) focused on monitoring water c
 
 My role in this project is the lead of the Sensors Team, responsible for developing the sensor package that is lowered into the well to get the information. This includes organizing and wiring the circuits together to fit down the 1.5" diameter pipe and waterproofing them well enough to withstand up to 100ft of water pressure. To accomplish this, we've designed various 3D printable housings to encase the COTS sensors that measure temperature, salinity, flow rate and direction of the water, and if there are any bio-contaminants present. 
 
+
+<img class="ui medium right floated rounded image" src="../images/ikeWaiChassis.png" >
+
 Throught my experience, the main take away is how to lead without knowing exactly what to do. Before this, my experience leading can be summed up as having a strong idea of what was happening or what needed to be done. Like programming projects, you have an idea of what you want to do and know the tools you need to get there. With 'Ike Wai, I was given specs and a quota and told to lead a team of 5 to complete the task. In the end, I learned that as a leader you don't necessarily need to know all the answers and in fact you shouldn't. Leveraging each team member's strength allows everyone to feel like they contributed, so personal satisfaction is high, and ensures that the final product is the best it can be.
 
 You can learn more about the [overall project here](http://www-ee.eng.hawaii.edu/~mmouse/about.html) or about the [DROP Module here](https://ikewaiuhmeng.wixsite.com/ikewai/about-ike-wai)
