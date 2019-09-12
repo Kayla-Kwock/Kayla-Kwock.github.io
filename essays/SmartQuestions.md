@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: Questioning How to Ask Questions
+# All dates must be YYYY-MM-DD format!
+date: 2019-09-10
+labels:
+  - Smart Questions
+  - Stack Overflow
+---
+
 # Questioning How to Ask Questions
 
 Alex the Parrot was a gray parrot and a subject of a thirty year long (starting form 1977) experiment to see if having an abnormally large brain-to-body ratio was a requirement in order for an animal to pick up language. This is because at the time only primates, who also have abnormally large brain-to-body ratios, were successfully taught so by extension parrots, who share the same property, should be able to. Not only was he able to learn language, but he even asked the question "What color?" in reference to the color of his feathers. This milestone is important because this is the only recorded instance of a non-human animal asking an existential question. Contrast this to humans where we ask questions all the time, including questions about coding.
@@ -11,4 +22,4 @@ As software developers, we're constantly running into bugs or unexpected behavio
  Next let's look at this post titled ___[Why does my tkinter code with multiple frames not even run](https://stackoverflow.com/questions/57367500/why-does-my-tkinter-code-with-multiple-frames-not-even-run)___. The asker is using a Python package _TKinter_ to create a GUI, but the program does not perform as expected. The asker doesn't really do much to make answering the question easy, like including attempted solutions or error messages. They simply state that they've tried following tutorials and what the expected output is, and include their entire code which is not commented to boot. This question is formatted in such a way that the answerer needs to first decipher what is being asked, then what's going on, then finally figure out a solution. Questions asked in this manner are answered infrequently or even unanswered as seen by the low traffic on this post and the single answer provided despite being asked over a month ago. 
  
 ## An Introspective on Insightful Investigation
- These traits of asking questions is what I feel should be the norm, regardless of topic. Although it may be instinct to immediately ask for help when a problem occurs, I feel one should take some time and think about the problem at hand. Thinking about the problem thoroughly and doing research will not only improve your ability to ask the question but may even help you resolve it without needing help. You've solved your own problem, got the answer in a timely manner, and got smarter in the process: a Win-Win-Win! However there will always be questions you cannot answer on your own, and in these cases asking questions the right way will help streamline the overall process for both asker and answerer and helps improve the quality of the final product.
+ These traits of asking questions are what I feel should be the norm, regardless of topic. Although it may be instinct to immediately ask for help when a problem occurs, I feel one should take some time and think about the problem at hand. Thinking about the problem thoroughly and doing research will not only improve your ability to ask the question but may even help you resolve it without needing help. You've solved your own problem, got the answer in a timely manner, and got smarter in the process: a Win-Win-Win! However there will always be questions you cannot answer on your own, and in these cases asking questions the right way will help streamline the overall process for both asker and answerer and helps improve the quality of the final product.
