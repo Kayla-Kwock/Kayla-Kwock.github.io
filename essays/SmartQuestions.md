@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 
-# Questioning How to Ask Questions
+# To Question is Human
 
 Alex the Parrot was a gray parrot and a subject of a thirty year long (starting form 1977) experiment to see if having an abnormally large brain-to-body ratio was a requirement in order for an animal to pick up language. This is because at the time only primates, who also have abnormally large brain-to-body ratios, were successfully taught so by extension parrots, who share the same property, should be able to. Not only was he able to learn language, but he even asked the question "What color?" in reference to the color of his feathers. This milestone is important because this is the only recorded instance of a non-human animal asking an existential question. Contrast this to humans where we ask questions all the time, including questions about coding.
 
