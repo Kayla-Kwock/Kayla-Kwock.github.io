@@ -25,8 +25,4 @@ labels:
 
 ## Final Thoughts
 
-  Semantic is a wonderful tool, without question. It's a lot easier than making a UI from a library such as [SFML](https://www.sfml-dev.org), take a look at a UI I created for a game. 
-  
-  ![](https://github.com/Kayla-Kwock/Kayla-Kwock.github.io/blob/master/images/flooredMainPage.PNG)
-
-  At first glance, this seems very simple: a couple of boxes with text in them organized in a certain way. But no. This simple UI took about 100 lines of code to get those created and displayed on screen! In Semantic this would likely take 15-20 lines maximum; a huge improvement. Like many things coding it will be infuriating and confusing at first, but over time it will get simpler and easier to create beautiful webpages.
+  Semantic is a wonderful tool, without question. It's a lot easier than making a UI from a library such as [SFML](https://www.sfml-dev.org), which I had once used to create a UI for a C++ game. It was fairly simple: a couple of boxes with text in them organized in a certain way. Should be easy to code but no. This simple UI took about 100 lines of code to get those created and displayed on screen! In Semantic this would likely take 15-20 lines maximum; a huge improvement. Like many things coding it will be infuriating and confusing at first, but over time it will get simpler and easier to create beautiful webpages.
